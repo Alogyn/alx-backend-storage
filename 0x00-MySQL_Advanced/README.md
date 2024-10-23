@@ -98,7 +98,7 @@ This project includes the following tasks:
    - Clone this project to your local machine:
      ```bash
      git clone https://github.com/Alogyn/alx-backend-storage/0x00-MySQL_Advanced
-     cd alx-mysql-advanced
+     cd alx-backend-storage/0x00-MySQL_Advanced
      ```
 
 3. **Run SQL files**:
